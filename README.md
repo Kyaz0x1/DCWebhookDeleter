@@ -4,7 +4,7 @@ This program aims to exclude webhooks from discord
 <img src="img/DCWebhookDeleter.png" />
 
 ### Project information
-|Name| DcWebhookDeleter |
+|Name| DCWebhookDeleter |
 |----|--|
 |Version|1.0.0|
 |Build|b212807|
